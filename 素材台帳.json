@@ -1,0 +1,56 @@
+{
+  "header": {
+    "file": "header.jpg",
+    "url": "https://crayonimg.e-shops.jp/cms-dimg/1031529/450586/850_637.jpg",
+    "source_page": "https://kazenoko.crayonsite.net/",
+    "sha256": "40f63423db706ea902e6cb08c85776113f1027176209c635ac2b7b962ef6e96a"
+  },
+  "top": {
+    "file": "top.jpg",
+    "url": "https://crayonimg.e-shops.jp/cms-dimg/1031529/181980/850_637.jpg",
+    "source_page": "https://kazenoko.crayonsite.net/",
+    "sha256": "355a80fefb7b5bc3b075ebcf4662dc53b74fdea855a0144c315189eb40c31ad7"
+  },
+  "festival": {
+    "file": "festival.jpg",
+    "url": "https://crayonimg.e-shops.jp/cms-dimg/1031529/473155/850_637.jpg",
+    "source_page": "https://kazenoko.crayonsite.net/p/3/",
+    "sha256": "c181d937fc41279928abe8240ae8871704bfce7ef1bdc6e3187fada559fcd6cf"
+  },
+  "christmas": {
+    "file": "christmas.jpg",
+    "url": "https://crayonimg.e-shops.jp/cms-dimg/1031529/232452/850_637.jpg",
+    "source_page": "https://kazenoko.crayonsite.net/p/3/",
+    "sha256": "c3b606063018aca11a1dc53eef29d6a65183717b3ea68e05b34afe8a591c4a05"
+  },
+  "dodgeball": {
+    "file": "dodgeball.jpg",
+    "url": "https://crayonimg.e-shops.jp/cms-dimg/1031529/450583/850_637.jpg",
+    "source_page": "https://kazenoko.crayonsite.net/p/3/",
+    "sha256": "344db99b4267f3d894940c99174cab1ba33bbbdf6c1dce1aee853fe4e0fb141e"
+  },
+  "sports": {
+    "file": "sports.jpg",
+    "url": "https://crayonimg.e-shops.jp/cms-dimg/1031529/438722/850_478.jpg",
+    "source_page": "https://kazenoko.crayonsite.net/p/3/",
+    "sha256": "03262f8717e46bc7bf0b83fcb1772464bde39d44469a7ca7132626d771d18bef"
+  },
+  "spring": {
+    "file": "spring.jpg",
+    "url": "https://crayonimg.e-shops.jp/cms-dimg/1031529/492625/850_637.jpg",
+    "source_page": "https://kazenoko.crayonsite.net/p/3/",
+    "sha256": "006a9e44749b0a8532e1fd63a663d550f20091482c861133c0b349391f5e6188"
+  },
+  "summer-festival": {
+    "file": "summer-festival.jpg",
+    "url": "https://crayonimg.e-shops.jp/cms-dimg/1031529/366923/850_637.jpg",
+    "source_page": "https://kazenoko.crayonsite.net/p/3/",
+    "sha256": "7d6c562ead274d533ce67ef89b9b28fe09b2d7d3edd387c40971e089d9a93152"
+  },
+  "camp": {
+    "file": "camp.jpg",
+    "url": "https://crayonimg.e-shops.jp/cms-dimg/1031529/379909/478_850.jpg",
+    "source_page": "https://kazenoko.crayonsite.net/p/3/",
+    "sha256": "359ffd7737732f679111a490f0e933f7b9e83e6d889fd10d23b9b6d89fde9428"
+  }
+}
